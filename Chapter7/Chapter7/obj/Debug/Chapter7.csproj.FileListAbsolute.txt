@@ -1,0 +1,10 @@
+C:\Users\Programming13\source\repos\Chapter7\Chapter7\bin\Debug\Chapter7.exe.config
+C:\Users\Programming13\source\repos\Chapter7\Chapter7\bin\Debug\Chapter7.exe
+C:\Users\Programming13\source\repos\Chapter7\Chapter7\bin\Debug\Chapter7.pdb
+C:\Users\Programming13\source\repos\Chapter7\Chapter7\obj\Debug\Chapter7.csprojAssemblyReference.cache
+C:\Users\Programming13\source\repos\Chapter7\Chapter7\obj\Debug\Chapter7.Form1.resources
+C:\Users\Programming13\source\repos\Chapter7\Chapter7\obj\Debug\Chapter7.Properties.Resources.resources
+C:\Users\Programming13\source\repos\Chapter7\Chapter7\obj\Debug\Chapter7.csproj.GenerateResource.cache
+C:\Users\Programming13\source\repos\Chapter7\Chapter7\obj\Debug\Chapter7.csproj.CoreCompileInputs.cache
+C:\Users\Programming13\source\repos\Chapter7\Chapter7\obj\Debug\Chapter7.exe
+C:\Users\Programming13\source\repos\Chapter7\Chapter7\obj\Debug\Chapter7.pdb
